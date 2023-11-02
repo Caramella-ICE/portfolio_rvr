@@ -1,0 +1,216 @@
+{
+    "experiences": [
+        {
+            "subTitle": "STAGE Ingénieur pricing Électricité De France (EDF) :",
+            "date": "6 mois - 2023",
+            "subLocation": "Tour EDF, La Défense (92)",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "content": "",
+            "subDesc": [
+                "Montages d’offres pour les clients grands comptes, structuration d’offres commerciales",
+                "Amélioration des outils de pricing et de cotations",
+                "Étude des mécanismes de formation des prix de détail de l’électricité et du gaz"
+            ],
+            "imageUrl": "https://media.parisladefense.com/fMd2MznRCc1T3VkiIc8KHRAQXig=/fit-in/1165x650/poi/tours/legende-edf/augustin-detienne-le-ugende-pld-08-2022-001.jpg",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%C3%89lectricit%C3%A9_de_France_logo.svg/2560px-%C3%89lectricit%C3%A9_de_France_logo.svg.png"
+        },
+        {
+            "subTitle": "STAGE Assistant-ingénieur logistique SCHMIDT Groupe : ",
+            "date": "6 mois - 2022",
+            "subLocation": "Site de Sélestat et de Lièpvre (67)",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "content": "",
+            "subDesc": [
+                "Prévisions industrielles, maintenance logiciels prévisions, Contact éditeurs logiciels, benchmark, suivis de commandes et relance de SAV ",
+                "Amélioration des outils de pricing et de cotations",
+                "Étude de données logistiques : transition livraison en vrac à livraison sur palettes."
+            ],
+            "imageUrl": "https://www.francebleu.fr/s3/cruiser-production/2022/04/b8f69dba-f0bf-41ef-a40c-c83859dee213/1200x680_maxnewsworldtwo817615.jpg",
+            "logoUrl": "https://www.groupe.schmidt/wp-content/uploads/2022/03/logo-SG-Alternance.png"
+        },
+        {
+            "subTitle": "Projets universitaires",
+            "date": "",
+            "subLocation": "UTT",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "content": "",
+            "subDesc": [
+                "Optimisation Énergétique Chaine de Production (Python): Application d’un article scientifique pour mettre en place “a Cuckoo Algorithms”",
+                "Optimisation Tournées de Véhicules avec fenêtres de temps (Python): Mise en place d’un algorithme génétique",
+                "Optimisation Pricing Multi-Channel (PNL) (Lingo): Mise en place modèle non linéaire sur le logiciel open source Lingo",
+                "Optimisation Trajets Véhicules (VBA) : Mise en place de variantes d’algorithmes de Djikstra"
+            ],
+            "imageUrl": "https://storage.letudiant.fr/mediatheque/letudiant/2/0/2548420-tout-savoir-sur-la-licence-informatique-766x438.jpg",
+            "logoUrl": ""
+        }
+    ],
+    "parcours": [
+        {
+            "subTitle": "Mastère Spécialisé, Big Data : Analyse et gestion de données massives",
+            "date": "En cours - 2023 – 2024",
+            "subLocation": "IMT - Telecom-Paris (91)",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "content": "",
+            "subDesc": [
+                "Statistiques",
+                "Base de données SQL – NoSQL",
+                "Machine Learning",
+                "Programmation Python",
+                "Algorithmes distribués pour le Big Data",
+                "IA : enjeux éthiques & sociaux"
+            ],
+            "imageUrl": "https://alternance.imt.fr/wp-content/uploads/2016/03/Patio-Palaiseau-e1605363026788.jpg",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Institut_Mines-T%C3%A9l%C3%A9com.svg/1200px-Logo_Institut_Mines-T%C3%A9l%C3%A9com.svg.png"
+        },
+        {
+            "subTitle": "Ingénieur Génie Industriel",
+            "date": "2020 – 2023",
+            "subLocation": "Université de Technologie de Troyes (10) (UTT)",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "content": "",
+            "subDesc": [
+                "StatistiquesStatistiques pour l'ingénieur, Plans d'expériences",
+                "Recherche opérationnelle",
+                "Intelligence artificielle, Structuration et gestion de données industrielles ",
+                "Organisation et gestion de la production, Logistique de transport  et de distribution",
+                "Simulation des systèmes industriels",
+                "Pricing Intelligent et Optimisation des Revenus"
+            ],
+            "imageUrl": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2021/01/11/node_222093/12198873/public/2021/01/11/B9725743915Z.1_20210111163749_000%2BGB9HC59EL.1-0.jpg?itok=0844mXUf1610489048",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Logo_UTT_2018.svg/1024px-Logo_UTT_2018.svg.png"
+        },
+        {
+            "subTitle": "Technologie et sciences industrielles (TSI) ",
+            "date": "2018 – 2020",
+            "subLocation": "Classe Préparatoire aux Grandes Écoles à Meaux (77)",
+            "list": false,
+            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "content": "Projet : Système modélisant les courants d’arrachements afin de limiter les noyades. (Documentation scientifique, Modèle Mathématique, Python)",
+            "subDesc": [],
+            "imageUrl": "https://static.actu.fr/uploads/2018/10/25414-181012125255916-0.jpg",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpU3rXAxJkbrczgjt_sXHZIinqKUFzESIvtShv7dbGx9pFEY1s1ucQyuxkG52t0EInvo&usqp=CAU"
+        },
+        {
+            "subTitle": "Sciences et Tech. de l’Industrie et du Dév. Durable (STI2D)",
+            "date": "2015 – 2018",
+            "subLocation": "Bac Général & Technologique à Chelles (77)",
+            "list": false,
+            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "content": "",
+            "subDesc": [],
+            "imageUrl": "https://static.actu.fr/uploads/2018/10/25414-181012125255916-0.jpg",
+            "logoUrl": ""
+        }
+    ],
+    "competences": [
+        {
+            "subTitle": "COMPÉTENCES Techniques",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Présentation : Pack MS Office",
+                "Programmation :Python, C, R, VBA",
+                "Programmation Linéaire : Gusek, AMPL, Lingo, CPLEX, Excel",
+                "Base de données : MySQL, SQLite, MongoDB,",
+                "Système réparti : Hadoop",
+                "Gestion de projets : Github"
+            ],
+            "imageUrl": "https://www.mooc.org/hubfs/applications-of-computer-programming.jpg",
+            "logoUrl": [
+                "https://news.microsoft.com/wp-content/uploads/prod/sites/113/2016/02/PreviewImage-768x354.png",
+                "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/2560px-MySQL.svg.png",
+                "https://blog.savoirfairelinux.com/en-ca/wp-content/uploads/sites/2/2017/11/Python-Logo-PNG-Image-1.png",
+                "https://www.r-project.org/logo/Rlogo.png",
+                "https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png"
+            ]
+        },
+        {
+            "subTitle": "LANGUES",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Anglais (B2+)",
+                "Italien (A1)"
+            ],
+            "imageUrl": "https://www.open.edu/openlearn/pluginfile.php/3143042/tool_ocwmanage/image/0/dil_1_OLHP_786x400.jpg",
+            "logoUrl": ""
+        },
+        {
+            "subTitle": "ATTITUDES",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Autonome",
+                "Respect des consignes",
+                "Information & formation",
+                "Force de travail",
+                "Rigueur"
+            ],
+            "imageUrl": "https://static.vecteezy.com/ti/vecteur-libre/p1/2917034-grand-couple-isolement-amoureux-heureux-jeune-fille-et-garcon-amoureux-amour-pour-tous-valentine-concept-flat-vector-illustration-in-cartoon-style-vectoriel.jpg",
+            "logoUrl": ""
+        },
+        {
+            "subTitle": "PROJETS annexes",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Data - www.kaggle.com/viktorrvr",
+                "Github – https://github.com/VRiPro",
+                "Hackaton Vélib’",
+                "Bénévolat Banque alimentaire",
+                "Sécurité des Systèmes Étude AFNOR",
+                "Sûreté de fonctionnement (GRIF)"
+            ],
+            "imageUrl": "https://www.patrickjouin.com/data/projets_2632c/fiche/117/visuel-emblematique_bornes_velib_-_jc_decaux_-_agence_jouin_id_-_credit_jc_decaux_6_332fa.jpg",
+            "logoUrl": ""
+        },
+        {
+            "subTitle": "CONNAISSANCES",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Bâtiment",
+                "Agroalimentaire",
+                "Outillage"
+            ],
+            "imageUrl": "https://www.obat.fr/blog/wp-content/uploads/2022/08/outillage-btp-1-1280x720.png",
+            "logoUrl": ""
+        },
+        {
+            "subTitle": "PASSIONS",
+            "date": "",
+            "subLocation": "",
+            "list": true,
+            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "content": "",
+            "subDesc": [
+                "Lecture (réc. Charles PEGUY)",
+                "Patisserie & cuisine",
+                "Bricolage",
+                "Mecanique"
+            ],
+            "imageUrl": "https://www.jobat.be//-/media/jobat/jobat-be/articles/grandpassionsucces.jpg?mw=906&hash=22DD8250BBC47026501E25157F706D3E",
+            "logoUrl": ""
+        }
+    ]
+}
