@@ -5,7 +5,7 @@
             "date": "6 mois - 2023",
             "subLocation": "Tour EDF, La Défense (92)",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_experienceIcon.png",
             "content": "",
             "subDesc": [
                 "Montages d’offres pour les clients grands comptes, structuration d’offres commerciales",
@@ -20,7 +20,7 @@
             "date": "6 mois - 2022",
             "subLocation": "Site de Sélestat et de Lièpvre (67)",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_experienceIcon.png",
             "content": "",
             "subDesc": [
                 "Prévisions industrielles, maintenance logiciels prévisions, Contact éditeurs logiciels, benchmark, suivis de commandes et relance de SAV ",
@@ -35,7 +35,7 @@
             "date": "",
             "subLocation": "UTT",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_experienceIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_experienceIcon.png",
             "content": "",
             "subDesc": [
                 "Optimisation Énergétique Chaine de Production (Python): Application d’un article scientifique pour mettre en place “a Cuckoo Algorithms”",
@@ -53,7 +53,7 @@
             "date": "En cours - 2023 – 2024",
             "subLocation": "IMT - Telecom-Paris (91)",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_carreerIcon.png",
             "content": "",
             "subDesc": [
                 "Statistiques",
@@ -71,7 +71,7 @@
             "date": "2020 – 2023",
             "subLocation": "Université de Technologie de Troyes (10) (UTT)",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_carreerIcon.png",
             "content": "",
             "subDesc": [
                 "StatistiquesStatistiques pour l'ingénieur, Plans d'expériences",
@@ -89,7 +89,7 @@
             "date": "2018 – 2020",
             "subLocation": "Classe Préparatoire aux Grandes Écoles à Meaux (77)",
             "list": false,
-            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_carreerIcon.png",
             "content": "Projet : Système modélisant les courants d’arrachements afin de limiter les noyades. (Documentation scientifique, Modèle Mathématique, Python)",
             "subDesc": [],
             "imageUrl": "https://static.actu.fr/uploads/2018/10/25414-181012125255916-0.jpg",
@@ -100,7 +100,7 @@
             "date": "2015 – 2018",
             "subLocation": "Bac Général & Technologique à Chelles (77)",
             "list": false,
-            "logoSection": "../../assets/images/bodyMenu/bm_carreerIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_carreerIcon.png",
             "content": "",
             "subDesc": [],
             "imageUrl": "https://static.actu.fr/uploads/2018/10/25414-181012125255916-0.jpg",
@@ -113,7 +113,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Présentation : Pack MS Office",
@@ -137,7 +137,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Anglais (B2+)",
@@ -151,7 +151,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Autonome",
@@ -168,7 +168,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Data - www.kaggle.com/viktorrvr",
@@ -186,7 +186,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Bâtiment",
@@ -201,7 +201,7 @@
             "date": "",
             "subLocation": "",
             "list": true,
-            "logoSection": "../../assets/images/bodyMenu/bm_skillsIcon.png",
+            "logoSection": "assets/images/bodyMenu/bm_skillsIcon.png",
             "content": "",
             "subDesc": [
                 "Lecture (réc. Charles PEGUY)",
