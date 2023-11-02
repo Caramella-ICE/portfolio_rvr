@@ -21,7 +21,7 @@ export class FooterComponent {
       { title: 'Github', click: ()=> this.openLink('https://github.com/VRiPro') }
     ]
   ]
-  helpMeUrl= '../../assets/images/bodyMenu/bm_helpIcon.png'
+  helpMeUrl= 'assets/images/bodyMenu/bm_helpIcon.png'
   helpMeText="Le site web a été développé avec Angular dans un but lucratif et dans l'intérêt d'être hébergé sur GitHub Pages. Il se distingue par son excellence et son design soigné, offrant ainsi une expérience en ligne de haute qualité. L'anonymat du développeur est préservé, mais son travail témoigne d'un engagement à fournir une plateforme web accessible au plus grand nombre. L'objectif de ce projet est de répondre aux besoins du public cible tout en maintenant la simplicité et l'accessibilité. Dans l'ensemble, ce site web incarne une fusion de compétence, d'ambition et d'accessibilité pour offrir une expérience en ligne remarquable."
 
   public click(title: string) {

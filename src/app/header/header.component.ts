@@ -8,9 +8,9 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
    
   headerElements = [
-    { text: "Expériences", imageUrl:'../../assets/images/bodyMenu/bm_experienceIcon.png', title: "Expériences" },
-    { text: "Parcours", imageUrl:'../../assets/images/bodyMenu/bm_carreerIcon.png', title: "Parcours" },
-    { text: "Compétences", imageUrl:'../../assets/images/bodyMenu/bm_skillsIcon.png', title: "Compétences" }
+    { text: "Expériences", imageUrl:'assets/images/bodyMenu/bm_experienceIcon.png', title: "Expériences" },
+    { text: "Parcours", imageUrl:'assets/images/bodyMenu/bm_carreerIcon.png', title: "Parcours" },
+    { text: "Compétences", imageUrl:'assets/images/bodyMenu/bm_skillsIcon.png', title: "Compétences" }
   ]
 
   public click(title: string){

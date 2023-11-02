@@ -18,8 +18,8 @@ export class SubSectionComponent {
   @Input() desc?: any
 
 
-  logoTime = '../../assets/images/bodyMenu/logoTime.png'
-  logoLocation = '../../assets/images/infos/location_icon.png'
+  logoTime = 'assets/images/bodyMenu/logoTime.png'
+  logoLocation = 'assets/images/infos/location_icon.png'
 
   public  isArray(){
     return Array.isArray(this.logoSubSection)

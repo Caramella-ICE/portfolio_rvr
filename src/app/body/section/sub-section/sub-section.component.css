@@ -4,6 +4,7 @@
 
 .container>div {
     padding: 2%;
+    font-size: 1.1vw;
 }
 .container>div>img, .logos>img{
     max-width:9%;
@@ -16,7 +17,9 @@
 #date {
     color: rgb(162, 172, 193);
 }
-
+#title{
+    font-size: .7vw !important;
+}
 #title,
 #location {
     color: rgb(0, 110, 193);
@@ -68,8 +71,11 @@ ul li::before {
     .container>img {
         display:none
     }
-    h2{
-        font-size: 1em;
+    .container>div{
+        font-size: 1em;;
+    }
+    #title{
+        font-size: 1em!important;
         margin-bottom: 0 !important;
     }
     .subSectionToReveal>div:first-child{
