@@ -1,0 +1,19 @@
+<div fxLayout="row" class="container">
+    <div fxFlex fxFlexAlign="stretch" fxLayout="column" fxLayoutAlign="center">
+        <h1 fxFlex> Victor RIVIÈRE</h1>
+        <h5 fxFlex> Mastère Spécialisé  <span [ngStyle]="{color: 'rgba(0,110,193,255)'}"> Big Data</span></h5>
+        <h6><u>Recherche V.I.E. et CDD/I</u></h6>  
+
+        <p fxFlex="20"> {{citations[index]}}</p>
+        <div fxFlex fxLayout="row" fxLayoutAlign="center center" class="bodyMainInfos">
+            <div   *ngFor="let element of infoElements" (click)="element.onclick && openLink(element.clickUrl!)" [ngStyle]="element.onclick ? {cursor: 'pointer'}:{}"> <img src={{element.imageUrl}} /><span>{{element.text}}</span></div>
+        </div>
+    </div>
+    <div fxFlex class="profileImage">
+    </div>
+    
+
+</div>
+<hr>
+
+<app-section *ngFor="let section of sections" [data]=section.data  [title]=section.title ></app-section>

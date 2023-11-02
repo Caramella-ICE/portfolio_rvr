@@ -1,0 +1,7 @@
+<div class="container">
+
+    <div fxFlex fxLayoutAlign="center" *ngFor="let element of headerElements"> <app-header-element
+            [imageUrl]=element.imageUrl [span]=element.text (click)="click(element.title)"
+            [title]=element.title></app-header-element>
+    </div>
+</div>

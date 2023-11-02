@@ -1,0 +1,13 @@
+<div class="container">
+    <div fxFlex fxlayout="row" fxLayoutAlign="center " >
+        <div fxFlex fxLayout="row" fxFlexAlign="stretch" fxLayoutAlign="center center">
+            <div fxFlex fxLayout="column" fxLayoutAlign="center center" *ngFor="let links of footerLinks "><u fxFlex
+                    *ngFor="let link of links" (click)=link.click()>{{link.title!}}</u></div>
+        </div>
+        <div fxFlex="50" fxFlexAlign="stretch" fxLayout="row" fxLayoutAlign="start center" class="helpMe">
+            <img src={{helpMeUrl}} />
+            <div>{{helpMeText}}</div>
+        </div>
+
+    </div>
+</div>

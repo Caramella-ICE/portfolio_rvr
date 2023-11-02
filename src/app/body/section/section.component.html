@@ -1,0 +1,6 @@
+<fieldset class="container" [id]=title>
+  <legend>{{title}}</legend><app-sub-section *ngFor="let subSection of data ; let i = index" [title]=subSection.subTitle
+    [date]=subSection.date [list]=subSection.list [location]=subSection.subLocation [content]=subSection.content
+    [desc]=subSection.subDesc [imageUrl]=subSection.imageUrl [isRight]=i%2 [logoSection]=subSection.logoSection
+    [logoSubSection]=subSection.logoUrl></app-sub-section>
+</fieldset>

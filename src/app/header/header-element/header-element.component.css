@@ -1,0 +1,23 @@
+div{
+  display: inline-flex;  
+}
+img{
+    height: 1em;
+}
+span{
+    margin-inline: 0.4em;
+}
+
+div:hover{
+  cursor: pointer !important;
+  transform: scale(1.1);
+  transition: .12s ease-in;
+}
+
+@media only screen and (max-width: 600px) {
+    span {
+      font-size: 0.9em;
+      margin-left: 0.4em;
+    }
+
+  }

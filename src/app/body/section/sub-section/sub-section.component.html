@@ -1,0 +1,34 @@
+<div class="container" fxFlex [fxLayout]='isRight == 0 ? "row" : "row-reverse"'
+    [ngStyle]="isRight == 0  ? {}:{'background-color': '#e8e4e3'}">
+    <div fxFlex class="subSectionToReveal" fxLayout="column" fxLayoutAlign="start start">
+        <div fxFlex="10" fxLayout="row" fxFlexAlign="stretch">
+            <div fxFlex id="title" fxLayout="row" fxLayoutAlign="start center"><img src={{logoSection}} />
+                <h2>{{title}}</h2>
+            </div>
+            <div *ngIf=" date?.length!>0;" fxFlex id="date" fxLayout="row" fxLayoutAlign="end center"><img
+                    src={{logoTime}} />
+                <h3>{{date}}</h3>
+            </div>
+        </div>
+        <div *ngIf=" location?.length!>0;" id="location" fxFlex="10" fxLayout="row" fxLayoutAlign="start center"><img
+                src={{logoLocation}}>
+            <h6>{{location}}</h6>
+        </div>
+        <p fxFlex *ngIf="content?.length! >0">{{content}}</p>
+        <div fxFlex *ngIf="list ;" id="content">
+            <ul>
+                <li *ngFor='let content of desc'>{{content}} </li>
+            </ul>
+        </div>
+
+
+        <img fxFlexAlign.gt-lg="end" *ngIf="!isArray() && logoSubSection.length > 0 ; else logoElse"
+            src={{logoSubSection}} />
+        <ng-template #logoElse>
+            <div class="logos" fxLayout="row" fxFlexAlign="stretch" fxLayoutAlign="end center" *ngIf="logoSubSection.length > 0 ;"> <img *ngFor="let logo of logoSubSection" src={{logo}} />
+            </div>
+        </ng-template>
+
+    </div>
+    <img src={{imageUrl}} />
+</div>

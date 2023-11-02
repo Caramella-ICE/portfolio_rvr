@@ -1,0 +1,33 @@
+
+
+ .container{
+    background-color: rgb(20, 20, 20);
+    min-height: 10em;
+    color:azure;
+    font-size: .7em;
+    padding:1%
+ }
+
+
+ 
+ u{
+   cursor:pointer;
+   margin:1em !important;
+ }
+ img{
+   margin:1em;
+   max-height: 3em;
+ }
+
+ @media only screen and (max-width: 600px) {
+
+   .container{
+      min-height: 30em;
+   }
+   .container>div:first-child {
+      flex-direction: column !important;
+   }
+   .helpMe{
+      max-width: 100% !important;
+   }
+ }
