@@ -11,20 +11,5 @@ export class HeaderElementComponent {
   @Input() clickable?: boolean = false;
   @Input() title?:string;
 
-  public click(event:object){
-    if(this.clickable){
-      switch(this.title){
-        case 'Contact':
-          open('https://mail.google.com/mail/u/0/#inbox?compose=VpCqJRxkLSkqxLXJgznVmgPBQVFnqRVgvRxNvJCFsxNDfNXTPXRlcQRstvRCxKCCFRTXnsB', '_blank');
-          break;
-        case 'Linkedin':
-          open('https://www.linkedin.com/in/v-riviere/', '_blank');
-          break;
-        case 'Github' :
-          open('https://github.com/VRiPro', '_blank');
-          break;
-      }
-    }
-
-  }
+  
 }

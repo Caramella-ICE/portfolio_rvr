@@ -16,11 +16,9 @@ export class BodyComponent {
   index = 0;
   citations = ["hihi", "Un data analyste hors norme", "Le créateur de ce site est juste trop bg"]
   infoElements = [
-    { imageUrl: 'assets/images/infos/header_phone_icon.png', text: '06 50 01 67 55', onclick: false, title: "Téléphone" },
-    { imageUrl: 'assets/images/infos/mail_icon.png', text: 'victor.riviere@tutanota.com', onclick: true, title: "Contact",clickUrl:"https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJnsmhBTncmlVnLtCGMRlxrlnlkdXdSsTvPKpTBNgGPhwnfWlmVMQBcfDFkspgVCnxCLB" },
     { imageUrl: 'assets/images/infos/location_icon.png', text: 'Mitry-Mory (77) & Puteaux (92)', onclick: false, title: "France" },
-    { imageUrl: 'assets/images/infos/linkedin_icon.png', onclick: true, title: "Linkedin", clickUrl:"https://www.linkedin.com/in/v-riviere/" },
-    { imageUrl: 'assets/images/infos/github_icon.png', onclick: true, title: "Github", clickUrl:"https://github.com/VRiPro"}
+    { imageUrl: 'assets/images/infos/linkedin_icon.png', onclick: true, title: "Linkedin", clickUrl: "https://www.linkedin.com/in/v-riviere/" },
+    { imageUrl: 'assets/images/infos/github_icon.png', onclick: true, title: "Github", clickUrl: "https://github.com/VRiPro" }
   ]
   sections = [
     { title: "Expériences", data: [] },
@@ -54,7 +52,7 @@ export class BodyComponent {
 
   }
 
-  public openLink(link: string){
+  public openLink(link: string) {
     window.open(
       link, "_blank"
     );

@@ -16,7 +16,6 @@ export class FooterComponent {
       { title: 'Compétences', click: ()=> this.click('Compétences')}
     ],
     [
-      { title: 'E-mail', click: ()=> this.openLink('https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJnsmhBTncmlVnLtCGMRlxrlnlkdXdSsTvPKpTBNgGPhwnfWlmVMQBcfDFkspgVCnxCLB') },
       { title: 'Linkedin', click: ()=> this.openLink('https://www.linkedin.com/in/v-riviere/') },
       { title: 'Github', click: ()=> this.openLink('https://github.com/VRiPro') }
     ]
